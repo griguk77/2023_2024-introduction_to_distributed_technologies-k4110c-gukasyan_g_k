@@ -82,3 +82,4 @@ http://localhost:8200/ui/vault/dashboard
 $ minikube kubectl logs vault
 ```
 <img width="1920" alt="1lab" src="https://github.com/user-attachments/assets/344d555b-bbfa-4a79-86e5-5ad72413f41f" />
+<img width="561" alt="1" src="https://github.com/user-attachments/assets/cc6cb342-48bb-4110-b1be-eda8e3d2fe9d" />
