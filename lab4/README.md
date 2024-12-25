@@ -193,3 +193,4 @@ PING 10-244-239-2.service-itmo-lab-4.default.svc.cluster.local (10.244.239.2): 5
 ```
 ![11(1)](https://github.com/user-attachments/assets/34ec0ca3-f5de-4ebc-9cb0-4da6163da81e)
 ![11(2)](https://github.com/user-attachments/assets/310e6203-f893-4314-aec7-a8411626f460)
+<img width="751" alt="4draw" src="https://github.com/user-attachments/assets/9e65ea03-ab7a-4209-9196-0edc9fcb5ba2" />
